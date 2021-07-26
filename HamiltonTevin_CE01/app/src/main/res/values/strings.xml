@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MY SubReddit</string>
+    <string name="display_empty">There is no data saved. please connect to the internet to retrieve selected data to be viewed and saved. </string>
+    <string name="todo">TODO</string>
+    <string name="connection_needed">need to connect to the internet</string>
+    <string name="comments">Comments#</string>
+    <string name="title_and_link">Title and Link</string>
+
+
+
+    <string-array name="apiNames">
+        <item>Arma3</item>
+        <item>Iphone</item>
+        <item>Android</item>
+        <item>XBOX</item>
+        <item>PlayStation</item>
+        <item>Apps</item>
+        <item>Movies</item>
+    </string-array>
+
+</resources>
